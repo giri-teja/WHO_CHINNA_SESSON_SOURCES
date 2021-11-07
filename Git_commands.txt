@@ -1,0 +1,17 @@
+LONG PATH ERROR: git config --system core.longpaths true
+
+INVALID PATH ERROR: git config core.protectNTFS false
+
+SSL ISSUE: git config http.sslVersion tlsv1.2
+
+IndexfetchPacket issuue: https://stackoverflow.com/questions/21277806/fatal-early-eof-fatal-index-pack-failed
+
+git clone -c core.longpaths=true <repo-url>
+
+git config --global core.protectNTFS false
+
+
+BEST_WEBSITE_TO_REFER: https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus
+
+
+remote.origin.url=https://github.com/github-username/github-repository-name.git
