@@ -1,3 +1,15 @@
 CHINNA_VIDEO_LINKS
 ------------------
-SESSION-1 -> SUCCESS
+SESSION-1 ->  REFER_DEMO_PROJECT:     https://www.youtube.com/watch?v=7_u7-E1wBjE&t=198s
+
+SESSION 2 ->  Create reusable fragments: https://www.youtube.com/watch?v=z19LE5kdyRw 
+
+SESSION 3 ->  Naming standards and structuring real time mule project: https://www.youtube.com/watch?v=KTq-r1mK734
+
+SESSION 4 ->  Implementation of case study - uhub-sapi:   https://www.youtube.com/watch?v=3-e10pyIa24
+
+SESSION 5 ->  global error handler framework:   https://www.youtube.com/watch?v=X_7Dz0ufOl4
+
+SESSION 6 ->  Mule template project: https://www.youtube.com/watch?v=xJyzKiJmxcM
+
+SESSION-7 ->  Mule maven plugin (CICD):https://www.youtube.com/watch?v=47bvqOBl0HU
