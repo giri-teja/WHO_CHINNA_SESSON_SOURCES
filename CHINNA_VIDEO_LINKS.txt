@@ -13,3 +13,11 @@ SESSION 5 ->  global error handler framework:   https://www.youtube.com/watch?v=
 SESSION 6 ->  Mule template project: https://www.youtube.com/watch?v=xJyzKiJmxcM
 
 SESSION-7 ->  Mule maven plugin (CICD):https://www.youtube.com/watch?v=47bvqOBl0HU
+
+SESSION-8 ->  Setup Jenkins & Pipeline (CICD)Setup Jenkins & Pipeline (CICD): https://www.youtube.com/watch?v=EfJ0wUXftuc
+
+SESSION-9 ->  
+
+SESSION-10 -> Agile & Backlog refinement: https://www.youtube.com/watch?v=pyBgXuFSARU
+
+SESSION-11 -> Sprint planning & requirement walkthrough: https://www.youtube.com/watch?v=IEYBfEUm2V4
