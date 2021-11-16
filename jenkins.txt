@@ -1,0 +1,8 @@
+Jenkins:
+
+Username/Fullname: GiriTeja
+Pass: Sg@9449451995
+http://localhost:9093/Success
+
+test port:9093
+initial admin_password:e8cecbcd18c84f91ae28fc27e59a654d
