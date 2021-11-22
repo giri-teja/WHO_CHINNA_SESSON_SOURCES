@@ -21,3 +21,5 @@ SESSION-9 ->
 SESSION-10 -> Agile & Backlog refinement: https://www.youtube.com/watch?v=pyBgXuFSARU
 
 SESSION-11 -> Sprint planning & requirement walkthrough: https://www.youtube.com/watch?v=IEYBfEUm2V4
+
+SESSION-12 -> aws-sapi req walkthrough & implementation: https://www.youtube.com/watch?v=0fNKv6eaAP8
