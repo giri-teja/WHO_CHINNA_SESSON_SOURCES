@@ -25,3 +25,7 @@ SESSION-11 -> Sprint planning & requirement walkthrough: https://www.youtube.com
 SESSION-12 -> aws-sapi req walkthrough & implementation: https://www.youtube.com/watch?v=0fNKv6eaAP8
 
 SESSION-13 -> Setup cloud database: https://www.youtube.com/watch?v=OzlzQRiO9Ds
+
+SESSION-14 -> uhub-sapi deployment to DEV env: https://www.youtube.com/watch?v=pIwCB_IOB_w
+
+SESSION-15 -> promote uhub-sapi to TEST & unit testing:  https://www.youtube.com/watch?v=iOjj4WUw19Q
