@@ -16,7 +16,7 @@ SESSION-7 ->  Mule maven plugin (CICD):https://www.youtube.com/watch?v=47bvqOBl0
 
 SESSION-8 ->  Setup Jenkins & Pipeline (CICD)Setup Jenkins & Pipeline (CICD): https://www.youtube.com/watch?v=EfJ0wUXftuc
 
-SESSION-9 ->  
+SESSION-9 ->  Agile & Backlog refinement: https://www.youtube.com/watch?v=pyBgXuFSARU
 
 SESSION-10 -> Agile & Backlog refinement: https://www.youtube.com/watch?v=pyBgXuFSARU
 
@@ -29,3 +29,11 @@ SESSION-13 -> Setup cloud database: https://www.youtube.com/watch?v=OzlzQRiO9Ds
 SESSION-14 -> uhub-sapi deployment to DEV env: https://www.youtube.com/watch?v=pIwCB_IOB_w
 
 SESSION-15 -> promote uhub-sapi to TEST & unit testing:  https://www.youtube.com/watch?v=iOjj4WUw19Q
+
+SESSION-16 -> aws-sapi req walkthrough & implementation: https://www.youtube.com/watch?v=WePefSG391Y
+
+SESSION-17 -> who-sapi req walkthrough & implementation: https://www.youtube.com/watch?v=MW1NvSCQ9KQ
+
+SESSION-18 -> covid-papi req gothrough & implementation: https://www.youtube.com/watch?v=FXBnH31n54U
+
+SESSION-19 -> covid-eapi req gothrough & implementation: https://www.youtube.com/watch?v=5bjtqBBIZMM
